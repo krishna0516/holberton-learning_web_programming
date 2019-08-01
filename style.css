@@ -5,3 +5,12 @@
 #going_to_the_right{
   margin-left: 50px;
 }
+
+
+#test{
+  border: 2px
+}
+
+.boxed{
+  border:1px solid black;
+}
